@@ -8,20 +8,26 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+    A- I used excel
     > Who is your intended audience? 
-    
+    A- The inteded audience are those that are interested in the consumer price index and the cost of food. 
     > What information or message are you trying to convey with your visualization? 
-    
+    A- (The inforamtion showes the over time, the overall CPI and Food. the bar chart illustrates the Consumer Price Index (CPI) for Ontario from 2005 to 2024, comparing all-items CPI (orange bars) with food CPI (blue bars).
+    Key Observations:
+    Both all-items CPI and food CPI show a steady upward trend, indicating overall inflation over time.
+    The food CPI appears to rise faster than the all-items CPI in recent years, suggesting that food prices have increased more sharply compared to the general price level.) 
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
+    A-Focused on the simple aesthetic bar chart the conveys the steady increase. 
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     
     > How did you ensure that your data visualization is accessible?  
+    A-I used the accessiblity check assistant and added a description of the graph and the table. 
     
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    A-Those that might be blind, just color blind, ppl who wear glasses or those who are affected with screen sensitivity. 
+
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    A-I decided to keep it simple, minimal text and used short words to convey what is on the table. 
     
     > What ‘underwater labour’ contributed to your final data visualization product?
 
