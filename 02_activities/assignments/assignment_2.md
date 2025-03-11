@@ -10,24 +10,28 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
-
-
-
-
-
-
-
+      https://www150.statcan.gc.ca/n1/daily-quotidien/250310/t001a-eng.htm
+      A-Table 1: Percentage of children and youth aged 1 to 17 with and without a regular healthcare provider, by province, 2023 
+      B- https://medium.economist.com/charting-new-territory-7f5afb293270 (america is the biggest polluter of co2 per person the economist) 
+      
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      A-Use a Visual Comparison Chart:
+      Instead of a static table, consider a 100% stacked bar chart where each province is represented by a bar split into “Has provider” and “Does not have provider” segments. This makes differences easier to spot at a glance.
+      Color Coding for Clarity:
+      Apply a consistent color scheme (e.g., green for “Has provider” and red for “Does not have provider”) to immediately signal performance. Ensure the colors are neutral enough to avoid unintended emotional cues.
+      Ordering or Highlighting:
+      Order the provinces either alphabetically or by percentage (e.g., highest to lowest in “Has provider”) to facilitate comparison. Alternatively, highlight provinces that deviate significantly from the national average.
 
-
-
-
-
-
+      B- Clear, Direct Headline
+      The title (“America is the biggest polluter of CO₂ per person”) immediately states the key takeaway. Readers know the main point before even examining the details.
+      Minimal Chart ‘Clutter’
+      The design is clean and straightforward. Unnecessary lines and labels are omitted, focusing attention on the bars and their labels.
+      Use of Color for Grouping
+      Each region or country has its own color, making comparisons quick and intuitive. The color palette is limited and consistent, avoiding visual overload.
+      Reference Lines/Annotations
+      Showing the global average (4.6 tonnes) as a reference line helps viewers quickly compare each bar to the world benchmark. Annotations such as total emissions (e.g., 5.3 gigatonnes for the U.S.) provide context
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
